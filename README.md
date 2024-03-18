@@ -1,1 +1,3 @@
-# Spam-Classification-SVM-CNN-
+# Spam-Classification-SVM-CNN
+
+The project's main objective is creating a machine learning model using the SMS Spam Collection dataset to efficiently classify text messages as spam or non-spam. This task is significant for improving mobile phone messaging experience for users, protecting them against unwanted content, and ensuring important messages are not mistakenly flagged as spam. Our approach includes following a standard NLP pipeline for data processing and cleaning, involving steps like punctuation removal and tokenization. We intend to establish a Support Vector Machine (SVM) model as a baseline and explore a neural network approach, specifically Convolutional Neural Network (CNN), for more advanced classification. The dataset used is sms+spam+collection from Kaggle.
